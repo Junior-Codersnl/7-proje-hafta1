@@ -1,8 +1,7 @@
 # 7-proje-hafta1
 
-1. Context API
-   - Global state management
-   - Connecting state to component
+1. Context API : [okuma](https://ysoftaoglu.com/post/react-context-api-nedir-nasil-kullanilir/#:~:text=React%20Context'ler%20component%20a%C4%9Fac%C4%B1nda,componentlara%20prop'lar%20yard%C4%B1m%C4%B1yla%20aktar%C4%B1r%C4%B1z.), [video](https://www.youtube.com/watch?v=v_iP8yHmc8s&ab_channel=MehmetAliFIRAT)
+
 2. Client-side routing
    - Client-side routing vs. server-side routing
    - React-router
