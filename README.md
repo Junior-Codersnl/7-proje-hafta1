@@ -3,11 +3,8 @@
 1. Context API : [okuma](https://ysoftaoglu.com/post/react-context-api-nedir-nasil-kullanilir/#:~:text=React%20Context'ler%20component%20a%C4%9Fac%C4%B1nda,componentlara%20prop'lar%20yard%C4%B1m%C4%B1yla%20aktar%C4%B1r%C4%B1z.), [video](https://www.youtube.com/watch?v=v_iP8yHmc8s&ab_channel=MehmetAliFIRAT)
 
 2. Client-side routing
-   - Client-side routing vs. server-side routing
-   - React-router
-   - Protected routes with React-router
+   - React-router [okuma](https://www.ninjakod.com/4-reactjs-routingyonlendirme-islemleri/), [video](https://www.youtube.com/watch?v=Jrlp1-Wu-Iw&ab_channel=ReactDersleri)
    
-   https://medium.com/@tsafaelmali/react-memoization-nedir-reactta-nas%C4%B1l-kullan%C4%B1l%C4%B1r-453035a3630f
    
    Agile nedir [okuma](https://www.acmagile.com/agile-nedir/), [video](https://www.youtube.com/watch?v=nHv3-VtiP38&ab_channel=BilgisayarKavramlari)   
    Scrum nedir?[okuma](https://tr.wikipedia.org/wiki/Scrum), [video](https://www.youtube.com/watch?v=Lk7N1zd7Mv8&ab_channel=BilgisayarKavramlari)  
