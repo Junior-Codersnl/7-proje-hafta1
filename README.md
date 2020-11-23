@@ -21,10 +21,9 @@
    4-Modal     
    5-Backend      
    
-   * Agile/Scram Proje Github ve gorev paylasimi      
-   * Haftaya kim ne yapacak planlama
+   * Agile/Scram Proje Github ve gorev paylasimi.    
+   * Haftaya kim ne anlatacak planlama.
    
-   Mimarisi ve Nasil Yapilacak?
    
 ### Projede Kullanilacak Ana Teknolojiler Resmi Siteleri
 
