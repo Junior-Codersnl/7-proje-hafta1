@@ -14,11 +14,18 @@
  3.  MVC nedir? [okuma](https://medium.com/@kdrcandogan/mvc-nedir-mvc-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-life-cycle-8e124f24650c), [video](https://www.youtube.com/watch?v=GM_c7zRvFUs&ab_channel=Hakan%C3%87amo%C4%9Flu)  
    
 ## Derste Konuşulacak Konular
-   Proje Hakkinda,Mimarisi ve Nasil Yapilacak?
+   1-Proje Hakkinda Genel Adimlar      
+   2-Proje Fikri   
+   3-Taslak    
+   4-Modal     
+   5-Backend      
+   
+   
+   Mimarisi ve Nasil Yapilacak?
    
 ### Projede Kullanilacak Ana Teknolojiler Resmi Siteleri
 
-React Docs: https://reactjs.org/docs/getting-started.html
-Node.js Docs: https://nodejs.org/en/docs/
-Express.js Docs: https://expressjs.com/
-MongoDB Docs: https://docs.mongodb.com/
+React Docs: https://reactjs.org/docs/getting-started.html         
+Node.js Docs: https://nodejs.org/en/docs/       
+Express.js Docs: https://expressjs.com/         
+MongoDB Docs: https://docs.mongodb.com/      
