@@ -15,3 +15,10 @@
    
 ## Derste Konuşulacak Konular
    Proje Hakkinda,Mimarisi ve Nasil Yapilacak?
+   
+### Projede Kullanilacak Ana Teknolojiler Resmi Siteleri
+
+React Docs: https://reactjs.org/docs/getting-started.html
+Node.js Docs: https://nodejs.org/en/docs/
+Express.js Docs: https://expressjs.com/
+MongoDB Docs: https://docs.mongodb.com/
