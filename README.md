@@ -14,12 +14,15 @@
  3.  MVC nedir? [okuma](https://medium.com/@kdrcandogan/mvc-nedir-mvc-ya%C5%9Fam-d%C3%B6ng%C3%BCs%C3%BC-life-cycle-8e124f24650c), [video](https://www.youtube.com/watch?v=GM_c7zRvFUs&ab_channel=Hakan%C3%87amo%C4%9Flu)  
    
 ## Derste Konuşulacak Konular
-   1-Proje Hakkinda Genel Adimlar      
+   * Proje Hakkinda     
+   1-Genel Adimlar      
    2-Proje Fikri   
    3-Taslak    
    4-Modal     
    5-Backend      
    
+   * Agile/Scram Proje Github ve gorev paylasimi      
+   * Haftaya kim ne yapacak planlama
    
    Mimarisi ve Nasil Yapilacak?
    
